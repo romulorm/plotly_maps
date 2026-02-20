@@ -8,3 +8,5 @@
 
 ### Pacotes
 - pip install pandas plotly ipykernel nbformat
+ou
+- uv add pandas plotly ipykernel nbformat
